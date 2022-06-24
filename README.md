@@ -5,7 +5,7 @@ Easily intergrate swap between coins on your website
 with uniswap feautures 
 
 ## How to use
-Installtion  Requirements 
+Installation  Requirements 
 
 Node js
 Sanity
