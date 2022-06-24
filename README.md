@@ -21,5 +21,5 @@ Execute
 
 navigate to the client folder then :::
 npx run build 
-px run start
+and npx run start
 
